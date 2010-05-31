@@ -1,0 +1,6 @@
+<Style name="ADRESSES">
+  <Rule>
+      &maxscale_zoom16;
+      <TextSymbolizer name="noimm" size="9" halo="1" fill="#000000"/>
+  </Rule>
+</Style>
